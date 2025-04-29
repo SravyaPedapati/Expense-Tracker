@@ -1,2 +1,2 @@
-# 2404InExTracker
- Income Expense Tracker
+# Expense-Tracker
+Income Expense Tracker
