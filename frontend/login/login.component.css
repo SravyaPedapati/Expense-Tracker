@@ -1,0 +1,44 @@
+/* Center the login form */
+form {
+    max-width: 400px;
+    margin: 100px auto;
+    padding: 30px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Style the labels and inputs */
+  label {
+    display: block;
+    margin-bottom: 6px;
+    font-weight: 600;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #aaa;
+    border-radius: 5px;
+    font-size: 14px;
+  }
+  
+  /* Style the login button */
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #0078d4;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  button:disabled {
+    background-color: #aaa;
+    cursor: not-allowed;
+  }
+  
